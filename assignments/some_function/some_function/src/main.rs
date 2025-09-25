@@ -1,3 +1,9 @@
+/*
+    Name: Michael Joseph Zamora
+    Student ID: 20593343
+    Date: 09/24/2025
+*/
+
 fn concat_strings(s1: &String, s2: &String) -> String{
     // Concatenate two strings and return the result
     let mut result = s1.clone(); // Clone s1 to avoid moving it
