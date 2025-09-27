@@ -1,5 +1,5 @@
 /*
-    Assignment 1: Temperature Converter
+    Assignment 1, 2, and 3: Temperature Converter, Even or Odd, and Guessing Game
     Name: Michael Zamora
     SID: 20593343
 */
