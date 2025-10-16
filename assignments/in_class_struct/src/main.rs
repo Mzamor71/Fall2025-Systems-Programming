@@ -39,5 +39,9 @@ fn main(){
     student1.set_name(String::from("Gertrude"));
     println!("Student name: {}", student1.get_name());
 
-
+    let mut student2 = Student::new();
+    student2.set_major(String::from("Mathematics"));
+    println!("Student major: {}", student2.get_major());
+    student2.set_name(String::from("Albert"));
+    println!("Student name: {}", student2.get_name());
 }
