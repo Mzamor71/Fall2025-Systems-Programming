@@ -1,3 +1,10 @@
+/*
+    Name:       Michael Zamora
+    SID:        20593343
+    Date:       10-15-2025
+    Assignment: Attendance Assignment 10-15-2025
+*/
+
 // Define an enum to represent different types of fruits
 enum Fruit {
     Apple(String),
