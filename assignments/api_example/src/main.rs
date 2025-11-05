@@ -1,3 +1,9 @@
+/*
+    Name: Michael Zamora
+    SID: 20593343
+    Date: November 5th, 2025
+*/
+
 use serde::Deserialize;
 use std::error::Error;
 use std::fs::File;
