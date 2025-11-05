@@ -47,7 +47,12 @@ fn main() {
     let books = vec![
         Book { title: "1984".to_string(), author: "George Orwell".to_string(), year: 1949 },
         Book { title: "To Kill a Mockingbird".to_string(), author: "Harper Lee".to_string(), year: 1960 },
-    ];
+        Book { title: "The Hunger Games".to_string(), author: "Suzanne Collins".to_string(), year: 2008 },
+        Book { title: "Catching Fire".to_string(), author: "Suzanne Collins".to_string(), year: 2009 },
+        Book { title: "Mockingjay".to_string(), author: "Suzanne Collins".to_string(), year: 2010 },
+        Book { title: "The Ballad of Songbirds and Snakes".to_string(), author: "Suzanne Collins".to_string(), year: 2020 },
+        Book { title: "Sunrise on the Reaping".to_string(), author: "Suzanne Collins".to_string(), year: 2025 }
+        ];
 
     save_books(&books, "books.txt");
     println!("Books saved to file.");

@@ -1,2 +1,7 @@
 1984,George Orwell,1949
 To Kill a Mockingbird,Harper Lee,1960
+The Hunger Games,Suzanne Collins,2008
+Catching Fire,Suzanne Collins,2009
+Mockingjay,Suzanne Collins,2010
+The Ballad of Songbirds and Snakes,Suzanne Collins,2020
+Sunrise on the Reaping,Suzanne Collins,2025
